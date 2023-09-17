@@ -1,32 +1,24 @@
 # Sign Language Recognition System (SLRS)
 
-## Introduction
+## Goal
 
-SLRS is a Sign Language Recognition System based on Artificial Intelligence. It is designed to recognize and interpret sign language gestures using machine learning techniques. This README provides an overview of the project, setup instructions, and usage guidelines.
+Implement a Convolutional Neural Network in TensorFlow to recognize sign language gestures.
 
-## Table of Contents
+## Incremental Development
 
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-  - [Training the Model](#training-the-model)
-  - [Using the Recognition System](#using-the-recognition-system)
-- [Data](#data)
-- [Model](#model)
-- [Evaluation](#evaluation)
-- [User Interface](#user-interface)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+Develop the model incrementally, starting with a few gestures and building upwards.
 
-## Getting Started
+## Results
 
-### Prerequisites
+Final model trained to classify 6 gestures with 92.47% accuracy.
 
-Before you begin, ensure you have met the following requirements:
+## Dataset
 
-- Python 
-- google colab
+Used the "HaGRID - HAnd Gesture Recognition Image Dataset" dataset from hagrid.
+
+
+## Acknowledgments
+
+Thanks to the Deaf and Hard of Hearing communities for their support.
 
 
